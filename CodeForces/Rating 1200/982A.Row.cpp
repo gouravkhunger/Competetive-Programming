@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/982/A
 // Row
-// File Creation Date: <date>
+// File Creation Date: 2-Dec-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
