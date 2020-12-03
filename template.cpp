@@ -18,8 +18,8 @@ typedef set<int> si;
 #define S second
 #define PB push_back
 #define MP make_pair
-#define INF (1<<29)
-#define MOD (1000000007)
+#define INF 1e18+5
+#define MOD 1e9+7
 #define FOR(i, a, b) for (int i=a; i<=b; i++)
 #define FORn(i, a, b) for (int i=a; i>=b; i--)
 #define all(v) v.begin(), v.end()
