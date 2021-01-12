@@ -1,6 +1,6 @@
-//
-//
-// File Creation Date:
+// https://codeforces.com/problemset/problem/706/B
+// 706 A. Interesting Drink
+// File Creation Date: 6-Jan-2921
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
@@ -28,6 +28,9 @@ typedef set<int> si;
 
 int main() {
 	FIO;
+    int n;
+    cin>>n;
+    
 
 	return 0;
 }
