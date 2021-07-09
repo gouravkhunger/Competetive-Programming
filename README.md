@@ -1,5 +1,7 @@
 # Competitive Programming
 
+**NOTICE**: THIS REPO IS NO LONGER MAINTAINED
+
 This repository contains solutions to various algorithmic problems by [Gourav](https://github.com/GouravKhunger) and also, others who contributed previously to [CodeForces](https://github.com/GouravKhunger/CodeForces) and [SPOJ](https://github.com/GouravKhunger/SPOJ) repositories, which are now closed and merged within this repo.
 
 The solved codes are placed in folders which correspond to their platform and within sub-folders according to their name, or rating folders.
